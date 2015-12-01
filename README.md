@@ -1,7 +1,8 @@
 # glusterfs-tools
 GlusterFS management tools
 
-# usage
+usage
+=====
 rm-gluster-file.sh 
 -----
     Description:
